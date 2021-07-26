@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "c:\\Software\\pypy3.6-v7.3.3-win32\\pypy3.exe",
+    "terminal.integrated.fontSize": 15
+}
