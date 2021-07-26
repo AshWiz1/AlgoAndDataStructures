@@ -11,4 +11,4 @@ def No(): print('No')
 def YES(): print('YES')
 def NO(): print('NO')
 INF = 10 ** 18
-MOD = 10 ** 9 + 7
+MOD = 10 ** 9 + 7 
